@@ -204,6 +204,22 @@ em{
     h1{
         font-size: 3rem;
     }
+    
+      h2{
+        font-size: 2rem;
+    }
+
+    .press-logo {
+        width: 25%;
+    }
+
+    .h2-prize {
+        font-size: 1.8rem
+    }
+
+    .h-cta {
+        font-size: 2.7rem;
+    }
 }
 
 html, body {
